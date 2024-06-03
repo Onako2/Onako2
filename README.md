@@ -9,6 +9,5 @@
 - 👯 I’m looking to collaborate on something
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing
-- 📫 How to reach me: Discord: onako2
-- 😄 Pronouns: Fight Helicopter
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Makes Liquidbounce devs angry :)
