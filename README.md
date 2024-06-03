@@ -3,20 +3,12 @@
 <a href="https://github.com/Onako2/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onako2" />
 </a>
-<a href="https://github.com/onako2/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onako2&layout=compact&langs_count=8&card_width=320" />
-</a>
-<!--
-**Onako2/Onako2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Illegal Anti Cheat
+- 🌱 I’m currently learning Java and Python
+- 👯 I’m looking to collaborate on something
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about nothing
+- 📫 How to reach me: Discord: onako2
+- 😄 Pronouns: Fight Helicopter
+- ⚡ Fun fact: Makes Liquidbounce devs angry :)
