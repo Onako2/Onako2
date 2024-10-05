@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://github.com/Onako2/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onako2" />
-</a>
+![Onako2's Stats](https://github-readme-stats.vercel.app/api?username=Onako2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Onako2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onako2&theme=vue-dark&hide_border=true)
 
 - 🔭 I’m currently working on Illegal Anti Cheat
 - 🌱 I’m currently learning Java and Python
