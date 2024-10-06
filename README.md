@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on Illegal Anti Cheat
 - 🌱 I’m currently learning Java and Python
-- 👯 I’m looking to collaborate on something
+- 👯 I’m looking to collaborate on Minecraft projects
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Makes Liquidbounce devs angry :)
+- ⚡ Fun fact: Does something (wow)
