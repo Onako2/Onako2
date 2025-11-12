@@ -4,7 +4,7 @@
 
 ![Onako2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onako2&theme=vue-dark&hide_border=true)
 
-- 🔭 I’m currently working on Illegal Anti Cheat
+- 🔭 I’m currently working on cool Minecraft stuff
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on Minecraft projects
 - 🤔 I’m looking for help with nothing
